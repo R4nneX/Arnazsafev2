@@ -36,7 +36,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 /_____/\__, /  /_/ |_|  /_/ /_/ /_/_/ /_/\___/_/|_|
       /____/
                                                   
-                                                                                      
+  thanks : R4nneX & Safwankun                                                                                 
 
 By : ${('R4nneX')}
 `));
@@ -61,10 +61,10 @@ By : ${('R4nneX')}
 
       console.log(chalk.blue(`\r
 -  [${moment().format('HH:mm:ss')}]  -
->  ${(`ID By R4nneX : ${country}`)}
->  ${(`USER By R4nneX : ${username}`)}  
->  ${(`TROPHY By R4nneX : ${trophy}`)}  
->  ${(`CROWN By R4nneX : ${crown}`)}
+>  ${(`ID By Safwankun : ${country}`)}
+>  ${(`USER By Safwankun : ${username}`)}  
+>  ${(`TROPHY By Safwankun : ${trophy}`)}  
+>  ${(`CROWN By Safwankun : ${crown}`)}
 >  ${(`STATUS : Sukses😎👌`)}`));
       await sleep(6500);
 
